@@ -1,0 +1,10 @@
+total_articles: 25
+categories: ['sports', 'business', 'technology', 'politics', 'entertainment']
+best_model: Logistic Regression
+best_accuracy: 0.125
+feature_count: 280
+train_size: 17
+test_size: 8
+logistic_regression_accuracy: 0.125
+random_forest_accuracy: 0.125
+svm_accuracy: 0.125

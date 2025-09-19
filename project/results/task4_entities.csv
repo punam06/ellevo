@@ -1,0 +1,55 @@
+text,label,start,end,description,article_id
+Apple Inc.,ORG,0,10,"Companies, agencies, institutions, etc.",0
+Tim Cook,PERSON,15,23,"People, including fictional",0
+the Steve Jobs Theater,FAC,65,87,"Buildings, airports, highways, bridges, etc.",0
+Cupertino,GPE,91,100,"Countries, cities, states",0
+California,GPE,102,112,"Countries, cities, states",0
+Joe Biden,PERSON,10,19,"People, including fictional",1
+European,NORP,29,37,Nationalities or religious or political groups,1
+Brussels,GPE,49,57,"Countries, cities, states",1
+Belgium,GPE,59,66,"Countries, cities, states",1
+NATO,ORG,79,83,"Companies, agencies, institutions, etc.",1
+Ukraine,GPE,122,129,"Countries, cities, states",1
+French,NORP,152,158,Nationalities or religious or political groups,1
+Emmanuel Macron,PERSON,169,184,"People, including fictional",1
+German,NORP,189,195,Nationalities or religious or political groups,1
+Olaf Scholz,PERSON,207,218,"People, including fictional",1
+Tesla,ORG,0,5,"Companies, agencies, institutions, etc.",2
+Elon Musk,PERSON,33,42,"People, including fictional",2
+China,GPE,90,95,"Countries, cities, states",2
+Shanghai,GPE,160,168,"Countries, cities, states",2
+The New York Times,ORG,0,18,"Companies, agencies, institutions, etc.",3
+Amazon,ORG,33,39,"Companies, agencies, institutions, etc.",3
+Texas,GPE,87,92,"Countries, cities, states",3
+Florida,GPE,97,104,"Countries, cities, states",3
+Jeff Bezos,PERSON,106,116,"People, including fictional",3
+last year,DATE,161,170,Absolute or relative dates or periods,3
+Microsoft,ORG,0,9,"Companies, agencies, institutions, etc.",4
+OpenAI,ORG,39,45,"Companies, agencies, institutions, etc.",4
+Seattle,GPE,149,156,"Countries, cities, states",4
+Washington,GPE,158,168,"Countries, cities, states",4
+Google,ORG,0,6,"Companies, agencies, institutions, etc.",5
+Alphabet,ORG,24,32,"Companies, agencies, institutions, etc.",5
+quarterly,DATE,49,58,Absolute or relative dates or periods,5
+Sundar Pichai,PERSON,73,86,"People, including fictional",5
+YouTube,ORG,145,152,"Companies, agencies, institutions, etc.",5
+Meta,ORG,14,18,"Companies, agencies, institutions, etc.",6
+Mark Zuckerberg,PERSON,72,87,"People, including fictional",6
+VR,WORK_OF_ART,122,124,"Titles of books, songs, etc.",6
+Menlo Park,GPE,158,168,"Countries, cities, states",6
+California,GPE,170,180,"Countries, cities, states",6
+The Federal Reserve,ORG,0,19,"Companies, agencies, institutions, etc.",7
+Jerome Powell,PERSON,29,42,"People, including fictional",7
+Washington,GPE,104,114,"Countries, cities, states",7
+D.C.,GPE,116,120,"Countries, cities, states",7
+the United States,GPE,155,172,"Countries, cities, states",7
+Netflix,ORG,0,7,"Companies, agencies, institutions, etc.",8
+multi-billion dollar,MONEY,17,37,"Monetary values, including unit",8
+Sony Pictures Entertainment,ORG,48,75,"Companies, agencies, institutions, etc.",8
+Los Angeles,GPE,132,143,"Countries, cities, states",8
+SpaceX,PERSON,0,6,"People, including fictional",9
+Falcon,ORG,31,37,"Companies, agencies, institutions, etc.",9
+Cape Canaveral,GPE,52,66,"Countries, cities, states",9
+Florida,GPE,68,75,"Countries, cities, states",9
+Starlink,ORG,114,122,"Companies, agencies, institutions, etc.",9
+Elon Musk's,PERSON,124,135,"People, including fictional",9

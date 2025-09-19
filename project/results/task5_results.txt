@@ -1,0 +1,74 @@
+TOPIC MODELING RESULTS
+==============================
+
+Total Documents: 25
+Number of Topics: 5
+Model Agreement Rate: 0.160
+
+LDA TOPICS:
+Topic 1: new, feature, compete, game, advanced, country, model, performance, patient, medical
+Topic 2: market, financial, challenge, expert, significant, public, disease, experience, prevention, health
+Topic 3: company, leader, platform, digital, method, scientist, technology, disease, prevention, experience
+Topic 4: new, team, prepare, match, announces, increased, player, digital, platform, feature
+Topic 5: support, government, health, medical, demand, treatment, official, economic, public, new
+
+NMF TOPICS:
+Topic 1: prevention, disease, scientist, method, develops innovative, company develops, prevention method, pharmaceutical company, pharmaceutical, develops
+Topic 2: team, new, feature, match, prepare, player, advanced, intensive training, begin new, training session
+Topic 3: market, financial, challenge, company, significant, economic, uncertainty investor, amid economic, market experience, earnings
+Topic 4: medical, patient, digital, patient monitoring, professional, medical professional, record medical, record, hospital implement, hospital
+Topic 5: demand, platform, ecommerce, retail company, delay, struggle supply, demand shipping, ecommerce platform, shipping, platform experience
+
+DOCUMENT ASSIGNMENTS (LDA):
+Doc 1: Topic 1 (0.799)
+Doc 2: Topic 2 (0.836)
+Doc 3: Topic 3 (0.798)
+Doc 4: Topic 1 (0.866)
+Doc 5: Topic 4 (0.731)
+Doc 6: Topic 1 (0.839)
+Doc 7: Topic 4 (0.839)
+Doc 8: Topic 1 (0.839)
+Doc 9: Topic 4 (0.799)
+Doc 10: Topic 4 (0.866)
+Doc 11: Topic 2 (0.885)
+Doc 12: Topic 3 (0.838)
+Doc 13: Topic 2 (0.799)
+Doc 14: Topic 2 (0.800)
+Doc 15: Topic 3 (0.866)
+Doc 16: Topic 5 (0.799)
+Doc 17: Topic 5 (0.796)
+Doc 18: Topic 3 (0.732)
+Doc 19: Topic 4 (0.597)
+Doc 20: Topic 5 (0.733)
+Doc 21: Topic 1 (0.865)
+Doc 22: Topic 3 (0.885)
+Doc 23: Topic 3 (0.837)
+Doc 24: Topic 2 (0.884)
+Doc 25: Topic 5 (0.839)
+
+DOCUMENT ASSIGNMENTS (NMF):
+Doc 1: Topic 2 (0.309)
+Doc 2: Topic 1 (0.383)
+Doc 3: Topic 3 (0.124)
+Doc 4: Topic 2 (0.303)
+Doc 5: Topic 5 (0.134)
+Doc 6: Topic 2 (0.342)
+Doc 7: Topic 2 (0.456)
+Doc 8: Topic 2 (0.171)
+Doc 9: Topic 2 (0.347)
+Doc 10: Topic 2 (0.379)
+Doc 11: Topic 3 (0.512)
+Doc 12: Topic 3 (0.404)
+Doc 13: Topic 3 (0.378)
+Doc 14: Topic 3 (0.488)
+Doc 15: Topic 5 (0.691)
+Doc 16: Topic 1 (0.108)
+Doc 17: Topic 4 (0.415)
+Doc 18: Topic 3 (0.123)
+Doc 19: Topic 1 (0.141)
+Doc 20: Topic 1 (0.176)
+Doc 21: Topic 4 (0.551)
+Doc 22: Topic 1 (0.574)
+Doc 23: Topic 4 (0.565)
+Doc 24: Topic 1 (0.483)
+Doc 25: Topic 5 (0.602)

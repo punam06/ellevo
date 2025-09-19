@@ -1,0 +1,6 @@
+logistic_regression_accuracy: 0.3333333333333333
+naive_bayes_accuracy: 0.3333333333333333
+best_model: Naive Bayes
+total_samples: 20
+positive_samples: 10
+negative_samples: 10

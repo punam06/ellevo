@@ -1,0 +1,98 @@
+NAMED ENTITY RECOGNITION RESULTS
+========================================
+
+total_articles: 10
+total_entities: 54
+unique_entities: 51
+entity_types_count: 8
+most_common_entity: ('California', 2)
+persons_count: 11
+organizations_count: 16
+locations_count: 16
+org_entities: 16
+person_entities: 11
+fac_entities: 1
+gpe_entities: 19
+norp_entities: 3
+date_entities: 2
+work_of_art_entities: 1
+money_entities: 1
+
+ENTITY TYPE DESCRIPTIONS:
+ORG: Companies, agencies, institutions, etc.
+PERSON: People, including fictional
+FAC: Buildings, airports, highways, bridges, etc.
+GPE: Countries, cities, states
+NORP: Nationalities or religious or political groups
+DATE: Absolute or relative dates or periods
+WORK_OF_ART: Titles of books, songs, etc.
+MONEY: Monetary values, including unit
+
+UNIQUE ENTITIES BY TYPE:
+
+ORG:
+  - Alphabet
+  - Amazon
+  - Apple Inc.
+  - Falcon
+  - Google
+  - Meta
+  - Microsoft
+  - NATO
+  - Netflix
+  - OpenAI
+  - Sony Pictures Entertainment
+  - Starlink
+  - Tesla
+  - The Federal Reserve
+  - The New York Times
+  - YouTube
+
+PERSON:
+  - Elon Musk
+  - Elon Musk's
+  - Emmanuel Macron
+  - Jeff Bezos
+  - Jerome Powell
+  - Joe Biden
+  - Mark Zuckerberg
+  - Olaf Scholz
+  - SpaceX
+  - Sundar Pichai
+  - Tim Cook
+
+FAC:
+  - the Steve Jobs Theater
+
+GPE:
+  - Belgium
+  - Brussels
+  - California
+  - Cape Canaveral
+  - China
+  - Cupertino
+  - D.C.
+  - Florida
+  - Los Angeles
+  - Menlo Park
+  - Seattle
+  - Shanghai
+  - Texas
+  - Ukraine
+  - Washington
+  - the United States
+
+NORP:
+  - European
+  - French
+  - German
+
+DATE:
+  - last year
+  - quarterly
+
+WORK_OF_ART:
+  - VR
+
+MONEY:
+  - multi-billion dollar

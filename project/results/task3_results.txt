@@ -1,0 +1,17 @@
+total_articles: 20
+fake_articles: 10
+real_articles: 10
+best_model: Naive Bayes
+best_accuracy: 0.6666666666666666
+best_f1_score: 0.75
+feature_count: 448
+avg_fake_length: 86.8
+avg_real_length: 90.5
+avg_fake_exclamations: 1.0
+avg_real_exclamations: 0.0
+logistic_regression_accuracy: 0.5
+logistic_regression_f1_score: 0.5714285714285714
+svm_accuracy: 0.5
+svm_f1_score: 0.5714285714285714
+naive_bayes_accuracy: 0.6666666666666666
+naive_bayes_f1_score: 0.75
